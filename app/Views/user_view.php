@@ -38,7 +38,7 @@
              <td><?php echo $user['user_name']; ?></td>
              <td><?php echo $user['user_email']; ?></td>
              <td><?php
-            
+             //echo base_url("publiupload/$user[img_file]");
                         if (!empty($user["img_file"])) {
                             echo '<img src="'.base_url("../upload/".$user['img_file']).'" width="100">';
                         }
