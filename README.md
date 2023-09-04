@@ -1,5 +1,7 @@
 diambil dari web codeigniter dan di buat CRUD dengan modifikasi & tambahan bootstrap
+
 jalankan dengan terminal "php spark serve"
+
 url "localhost:8080/register"
 
 # CodeIgniter 4 Framework
